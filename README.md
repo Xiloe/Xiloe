@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a secret project :)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other peoples
-- 🥅 2021 Goals: Learn Vue, Nuxt, Vue CLI
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate with other people
+- 🥅 2020 Goals: Learn Vue, Nuxt, Vue CLI
 - ⚡ Fun fact: I have 3 cats
 
 ### Connect with me:
