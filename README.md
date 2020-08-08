@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Tom - aka [Xiloe][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Student, Developer, and Vue JS lover!
 - 🔭 I’m currently working on a secret project :)
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate with other people
