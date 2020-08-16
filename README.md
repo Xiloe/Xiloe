@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vuex and Vue Router
 - 🥅 2020 Goals: Learn Nuxt
 
-### Connect with me:
+### My social medias:
 
 [<img align="left" alt="xiloe.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Xiloe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
