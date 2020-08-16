@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Tom - aka [Xiloe][website] 👋
 
-## I'm a Student, Developer, and Vue JS lover!
-- 🔭 I’m currently working on a secret project :)
-- 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate with other people
-- 🥅 2020 Goals: Learn Vue, Nuxt, Vue CLI
-- ⚡ Fun fact: I have 3 cats
+## I'm a Student, Developer, and Vue.Js lover!
+- 🔭 I’m currently working on nothing !
+- 🌱 I’m currently learning Vuex and Vue Router
+- 🥅 2020 Goals: Learn Nuxt
 
 ### Connect with me:
 
