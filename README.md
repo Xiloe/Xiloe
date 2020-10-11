@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ### My social medias:
 
+[![xiloe contact](https://api.xiloe.fr/v1/badges/badge.php?id=665728472647204886)](https://github.com/Xiloe)<br />
 [<img align="left" alt="xiloe.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Xiloe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Xiloe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]</br>
-[![xiloe contact](https://api.xiloe.fr/v1/badges/badge.php?id=665728472647204886)](https://github.com/Xiloe)
+[<img align="left" alt="Xiloe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
