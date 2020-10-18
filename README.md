@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://github.com/Xiloe"><img align="center" alt="Xiloe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xiloe&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a><br/>
-<a href="https://github.com/Xiloe?tab=repositories"><img align="center" alt="Xiloe's favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiloe&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  /></a>
+<a href="https://github.com/Xiloe"><img align="left" alt="Xiloe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xiloe&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a><br/>
+<a href="https://github.com/Xiloe?tab=repositories"><img align="left" alt="Xiloe's favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiloe&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  /></a>
 
 [website]: http://xiloe.fr/
 [twitter]: https://twitter.com/@Xiloe_Dev
