@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm Tom - aka [Xiloe][website] 👋
 
 ## I'm a Student, Developer, and Vue.Js lover!
-- 🔭 I’m currently working on `Nothing`!
-- 🌱 I’m currently learning ASM
-- 🥅 2021 Goals: Learn Nuxt, and hacking / pentesting
+- 🔭 I’m currently working on `python stuff`!
+- 🌱 I’m currently learning `Ursina`
+- 🥅 2021 Goals: Improve my RE, IDA and game hacking skills.
 
 ### My social medias:
 
