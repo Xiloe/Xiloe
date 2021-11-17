@@ -7,7 +7,7 @@
 
 - 🎯 I would like to make [my own OS](https://github.com/Xiloe/SimpleOS) from scratch, just for fun :)
 
-- ⚡ Currently working on [Carte Jeune Dump Viewer](https://github.com/Xiloe/cartejeune-dump)
+- ⚡ Currently working on nothing.. :(
 
 - 🏆 I casually make cheats on games. I usually like to bother Hi-Rez Studios :)
 
