@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I would like to make my own os from scratch <br>🔭 I’m currently working on learning ReactJS / TailwindCSS<br>🌱 I’m currently learning ReactJS / TailwindCSS<br>🏆 I sometimes make cheats on games. I usually like to bother Hi-Rez Studios.
+🎯 I would like to make my own os from scratch <br>🔭 I’m currently working on a React project / TailwindCSS<br>🌱 I’m currently learning ReactJS / TailwindCSS<br>🏆 I sometimes make cheats on games. I usually like to bother Hi-Rez Studios.
 
 
 ## 🌐 Socials:
