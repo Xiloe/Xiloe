@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎯 I would like to make my own os from scratch <br>🔭 I’m currently working on a React project / TailwindCSS<br>🌱 I’m currently learning ReactJS / TailwindCSS<br>🏆 I sometimes make cheats on games. I usually like to bother Hi-Rez Studios.
-
+🎯 I would like to make my own os from scratch <br>🔭 I’m currently working on React & ChakraUI<br>🏆 I sometimes make cheats on games. I usually like to bother Hi-Rez Studios.
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Xiloe/) 
